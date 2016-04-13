@@ -1,0 +1,8 @@
+ARGV[0]:
+  access_key_id: 
+  secret_access_key: 
+  write_file_path: 
+  download_bucket_name: 
+  process_queue_name: 
+  capture_queue_name: 
+  bucket_name: 
